@@ -10,7 +10,6 @@
 
         <TextView
             android:id="@+id/box_one_text"
-            style="@style/whiteBox"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/margin_wide"
@@ -24,7 +23,6 @@
 
         <TextView
             android:id="@+id/box_two_text"
-            style="@style/whiteBox"
             android:layout_width="130dp"
             android:layout_height="130dp"
             android:layout_marginStart="@dimen/margin_wide"
@@ -35,7 +33,6 @@
 
         <TextView
             android:id="@+id/box_three_text"
-            style="@style/whiteBox"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/margin_wide"
@@ -48,7 +45,6 @@
 
         <TextView
             android:id="@+id/box_four_text"
-            style="@style/whiteBox"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/margin_wide"
@@ -63,7 +59,6 @@
 
         <TextView
             android:id="@+id/box_five_text"
-            style="@style/whiteBox"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/margin_wide"
